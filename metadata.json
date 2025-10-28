@@ -1,0 +1,7 @@
+{
+  "name": "Vision",
+  "description": "An AI-powered assistant for the visually impaired that uses an ESP32 camera to detect obstacles and describe your surroundings. Activate by saying 'Vision'.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
